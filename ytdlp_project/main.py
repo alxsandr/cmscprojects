@@ -3,7 +3,7 @@ import yt_dlp
 import asyncio
  
 # Your bot's token
-TOKEN = 'MTE1MTUxMDc0NzIwNjEyMzYzNA.G_q-ds.6SyfXlhAaWfm4hSSCkplE6FvazhzLznMGvObsk'
+TOKEN = 'token removed for security, add in when run
  
 # Create a Discord client
 intents = discord.Intents.default()
